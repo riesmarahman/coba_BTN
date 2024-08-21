@@ -99,4 +99,9 @@
       <initValue>'customer'</initValue>
       <name>lastName</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://www.btnproperti.co.id/tools/hitung-harga-properti'</initValue>
+      <name>URL</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

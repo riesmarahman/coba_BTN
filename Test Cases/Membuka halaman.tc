@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menghitung harga properti untuk 1 tahun</description>
+   <name>Membuka halaman</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>64e45bdd-d27b-4c9c-ab31-1e5ea405b2ed</testCaseGuid>
+</TestCaseEntity>
