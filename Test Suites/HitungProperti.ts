@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>HitungProperti</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>3a2209e8-90e0-4e8a-9462-84a2e12bf975</testSuiteGuid>
+   <testCaseLink>
+      <guid>87417cb1-f3ea-4591-aece-74a76f648579</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/HitungProperti</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>7a8e3935-2b20-4f6b-8af3-f7c9401b8c5d</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/DataBTN</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>7a8e3935-2b20-4f6b-8af3-f7c9401b8c5d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Input_Penghasilan</value>
+         <variableId>ca0da52c-75e0-4568-ac01-cd935062d0a4</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>7a8e3935-2b20-4f6b-8af3-f7c9401b8c5d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Input_Pengeluaran</value>
+         <variableId>d6260591-31a8-48cb-87b8-b6caf8664c35</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>7a8e3935-2b20-4f6b-8af3-f7c9401b8c5d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Input_Hasil</value>
+         <variableId>ed6b3408-e479-4681-81d7-b409301113d7</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>7a8e3935-2b20-4f6b-8af3-f7c9401b8c5d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Select_Jangka</value>
+         <variableId>ab25adcb-a171-4701-84e9-4d798406e94c</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e1a51848-7f25-48e9-9ba1-1474a39f1982</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/HitungNegative</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>e2796c65-44a9-4f5a-b1b3-030e70e00972</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/DataBTNNegative</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>e2796c65-44a9-4f5a-b1b3-030e70e00972</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Input_Penghasilan</value>
+         <variableId>6f8cf590-31b9-4342-95a4-44b60d7c3934</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>e2796c65-44a9-4f5a-b1b3-030e70e00972</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Input_Pengeluaran</value>
+         <variableId>656c386c-97cf-4212-82e6-8c990a3bfeff</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

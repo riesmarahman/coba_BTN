@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HitungNegative</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7c59cff6-9ec5-4bd3-aa64-abe6094eb9b4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6f8cf590-31b9-4342-95a4-44b60d7c3934</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>656c386c-97cf-4212-82e6-8c990a3bfeff</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'1000000'</defaultValue>
+      <description></description>
+      <id>6f8cf590-31b9-4342-95a4-44b60d7c3934</id>
+      <masked>false</masked>
+      <name>Input_Penghasilan</name>
+   </variable>
+   <variable>
+      <defaultValue>'2000000'</defaultValue>
+      <description></description>
+      <id>656c386c-97cf-4212-82e6-8c990a3bfeff</id>
+      <masked>false</masked>
+      <name>Input_Pengeluaran</name>
+   </variable>
+</TestCaseEntity>
